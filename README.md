@@ -9,21 +9,17 @@
 
 📫 How to reach me **[thanvitharacharya14@gmail.com](mailto:thanvitharacharya14@gmail.com)**
 
----
-
 ## 🚀 My Projects
 
-🌍 **Namma Tulunadu** - Smart tourism platform for Coastal Karnataka built using Spring Boot, React, MySQL, JWT Authentication, and Gemini AI.
+🌍 [Namma Tulunadu](https://github.com/thanvitha14/NAMMA-TULUNADU) - Smart tourism platform for Coastal Karnataka built using Spring Boot, React, MySQL, JWT Authentication, and Gemini AI.
 
-🤖 **JANA AI** - AI-powered citizen welfare assistance platform that recommends government schemes and scholarships with multilingual support and chatbot assistance.
+🤖 [JANA AI](https://github.com/thanvitha14/JANA-AI) - AI-powered citizen welfare assistance platform that recommends government schemes and scholarships with multilingual support and chatbot assistance.
 
-🚶 **NeoGait Lifeline** - IoT-based smart cane for fall detection, health monitoring, GPS tracking, and emergency SOS alerts using ESP32 and biometric sensors.
+🚶 [NeoGait Lifeline](https://github.com/thanvitha14/NEOGAIT-lifeline) - IoT-based smart cane for fall detection, health monitoring, GPS tracking, and emergency SOS alerts using ESP32 and biometric sensors.
 
-✋ **Sign Language Recognition** - Deep learning-based system for recognizing sign language gestures using Python, OpenCV, and CNN models.
+✋ [Sign Language Recognition](https://github.com/thanvitha14/sign-language-recognition) - Deep learning-based system for recognizing sign language gestures using Python, OpenCV, and CNN models.
 
-📋 **Offline Clipboard** - Web-based clipboard application for storing and managing copied text without an internet connection.
-
----
+📋 [Offline Clipboard](https://github.com/thanvitha14/offline_clipboard) - Web-based clipboard application for storing and managing copied text without an internet connection.
 
 <h3 align="left">Connect with me:</h3>
 
